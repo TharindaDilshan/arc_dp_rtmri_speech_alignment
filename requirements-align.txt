@@ -1,0 +1,5 @@
+numpy
+scipy
+soundfile
+av
+imageio-ffmpeg   # optional: only used if no ffmpeg is on PATH
